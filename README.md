@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Interactive rating component]([https://your-live-site-url.com](https://kwiatkowskimaciej.github.io/interactive-rating-component/))
+- Live Site URL: [Interactive rating component](https://your-live-site-url.com](https://kwiatkowskimaciej.github.io/interactive-rating-component/)
 
 ## My process
 
